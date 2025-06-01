@@ -34,7 +34,8 @@ jobs:
         with:
           context: ./api-gateway
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/api-gateway:${{ github.sha }}
+          tags: |
+            ${{ secrets.DOCKER_USERNAME }}/api-gateway:${{ github.sha }}
           build-args: |
             BUILDKIT_INLINE_CACHE=1
 
