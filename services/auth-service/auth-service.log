@@ -4,3 +4,56 @@
 {"level":"info","msg":"Login successful for user: n_nursulu@mail.ru","time":"2025-06-01T11:32:10+05:00"}
 {"level":"info","msg":"Login attempt for email: n_nursulu@mail.ru","time":"2025-06-01T11:45:29+05:00"}
 {"level":"info","msg":"Login successful for user: n_nursulu@mail.ru","time":"2025-06-01T11:45:30+05:00"}
+{"level":"info","msg":"Login attempt for email: n_nursulu@mail.ru","time":"2025-06-01T12:04:20+05:00"}
+{"level":"info","msg":"Login successful for user: n_nursulu@mail.ru","time":"2025-06-01T12:04:21+05:00"}
+{"level":"info","msg":"AuthService gRPC server started on :50051","time":"2025-06-02T00:53:27+05:00"}
+{"level":"info","msg":"Login attempt for email: n_nursulu@mail.ru","time":"2025-06-02T00:58:44+05:00"}
+{"level":"info","msg":"Login successful for user: n_nursulu@mail.ru","time":"2025-06-02T00:58:45+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T00:58:50+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T00:58:50+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T00:59:01+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T00:59:02+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T00:59:02+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T00:59:03+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T00:59:03+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T00:59:04+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T00:59:04+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T00:59:04+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T00:59:05+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T00:59:05+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:27:06+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:27:06+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:27:07+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:27:07+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:27:08+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:27:08+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:27:53+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:27:53+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:27:55+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:27:55+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:28:10+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:28:10+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:28:11+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:28:11+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:28:22+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:28:22+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:28:32+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:28:32+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:28:33+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:28:33+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:28:45+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:28:46+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:28:59+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:28:59+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:32:15+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:32:15+05:00"}
+{"level":"info","msg":"Logout attempt","time":"2025-06-02T01:32:16+05:00"}
+{"level":"warning","msg":"Invalid token on logout","time":"2025-06-02T01:32:16+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:32:30+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:32:30+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:32:31+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:32:31+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:32:32+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:32:32+05:00"}
+{"level":"info","msg":"Login attempt for email: 231441@astanait.edu.kz","time":"2025-06-02T01:32:33+05:00"}
+{"level":"info","msg":"Login successful for user: 231441@astanait.edu.kz","time":"2025-06-02T01:32:33+05:00"}

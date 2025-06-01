@@ -7,3 +7,25 @@
 {"level":"info","msg":"Subscribed to order.created events","time":"2025-06-01T11:31:47+05:00"}
 {"level":"info","msg":"ProductService gRPC server started on :50052","time":"2025-06-01T11:31:47+05:00"}
 {"level":"info","msg":"ListProducts called","time":"2025-06-01T11:32:47+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-01T12:22:17+05:00"}
+{"level":"info","msg":"SearchProducts called. Query: ","time":"2025-06-01T12:28:21+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-01T12:30:05+05:00"}
+{"level":"info","msg":"Subscribed to order.created events","time":"2025-06-02T00:53:32+05:00"}
+{"level":"info","msg":"ProductService gRPC server started on :50052","time":"2025-06-02T00:53:32+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:25:57+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:26:06+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:26:07+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:26:08+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:26:08+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:26:09+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:26:09+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:53+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:54+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:55+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:58+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:58+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:59+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:59+05:00"}
+{"level":"info","msg":"GetProduct called for id: 682639c091afb81dca20bacd","time":"2025-06-02T01:27:00+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:32:39+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-02T01:32:40+05:00"}

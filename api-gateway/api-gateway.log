@@ -1,2 +1,59 @@
 {"level":"info","msg":"API Gateway запущен на :8080","time":"2025-05-25T19:23:15+05:00"}
 {"level":"info","msg":"API Gateway запущен на :8080","time":"2025-06-01T11:29:58+05:00"}
+{"level":"info","msg":"User logged in: n_nursulu@mail.ru","time":"2025-06-01T12:04:21+05:00"}
+{"level":"warning","msg":"No Authorization header in HTTP request","time":"2025-06-01T12:18:58+05:00"}
+{"level":"warning","msg":"Invalid JSON in CreateProduct: EOF","time":"2025-06-01T12:22:12+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-01T12:22:17+05:00"}
+{"level":"warning","msg":"Invalid JSON in SearchProducts: EOF","time":"2025-06-01T12:28:13+05:00"}
+{"level":"info","msg":"Products searched","time":"2025-06-01T12:28:21+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-01T12:30:05+05:00"}
+{"level":"info","msg":"API Gateway запущен на :8080","time":"2025-06-01T12:57:03+05:00"}
+{"level":"info","msg":"API Gateway запущен на :8080","time":"2025-06-02T00:53:21+05:00"}
+{"level":"info","msg":"User logged in: n_nursulu@mail.ru","time":"2025-06-02T00:58:45+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T00:58:50+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T00:59:02+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T00:59:03+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T00:59:04+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T00:59:04+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T00:59:05+05:00"}
+{"level":"warning","msg":"Invalid JSON in CreateProduct: json: cannot unmarshal string into Go struct field CreateProductRequest.type of type productpb.BikeType","time":"2025-06-02T01:00:24+05:00"}
+{"level":"warning","msg":"Invalid JSON in CreateProduct: json: cannot unmarshal string into Go struct field CreateProductRequest.type of type productpb.BikeType","time":"2025-06-02T01:00:39+05:00"}
+{"level":"warning","msg":"Invalid JSON in CreateProduct: json: cannot unmarshal string into Go struct field CreateProductRequest.type of type productpb.BikeType","time":"2025-06-02T01:00:41+05:00"}
+{"level":"warning","msg":"Invalid JSON in CreateProduct: json: cannot unmarshal string into Go struct field CreateProductRequest.type of type productpb.BikeType","time":"2025-06-02T01:00:53+05:00"}
+{"level":"warning","msg":"Invalid JSON in CreateProduct: json: cannot unmarshal string into Go struct field CreateProductRequest.type of type productpb.BikeType","time":"2025-06-02T01:00:54+05:00"}
+{"level":"warning","msg":"Invalid JSON in CreateProduct: json: cannot unmarshal string into Go struct field CreateProductRequest.type of type productpb.BikeType","time":"2025-06-02T01:25:16+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:25:57+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:26:07+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:26:07+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:26:08+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:26:08+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:26:09+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:26:09+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:53+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:54+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:55+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:58+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:58+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-02T01:26:59+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-02T01:27:00+05:00"}
+{"level":"info","msg":"Product retrieved: 682639c091afb81dca20bacd","time":"2025-06-02T01:27:00+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:27:06+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:27:07+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:27:08+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:27:53+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:27:55+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:28:10+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:28:11+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:28:22+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:28:32+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:28:33+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:28:46+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:28:59+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:32:15+05:00"}
+{"level":"warning","msg":"Logout failed: rpc error: code = Unknown desc = invalid token","time":"2025-06-02T01:32:16+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:32:30+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:32:31+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:32:32+05:00"}
+{"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:32:33+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:32:39+05:00"}
+{"level":"info","msg":"Products listed","time":"2025-06-02T01:32:40+05:00"}
