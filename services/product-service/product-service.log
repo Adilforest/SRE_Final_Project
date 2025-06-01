@@ -1,0 +1,9 @@
+{"level":"info","msg":"ProductService gRPC server started on :50052","time":"2025-05-22T17:52:04+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-05-22T17:52:36+05:00"}
+{"level":"info","msg":"ProductService gRPC server started on :50052","time":"2025-05-22T17:57:29+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-05-22T17:57:30+05:00"}
+{"level":"fatal","msg":"NATS connection error: nats: no servers available for connection","time":"2025-05-25T19:23:24+05:00"}
+{"level":"fatal","msg":"NATS connection error: nats: no servers available for connection","time":"2025-06-01T11:30:05+05:00"}
+{"level":"info","msg":"Subscribed to order.created events","time":"2025-06-01T11:31:47+05:00"}
+{"level":"info","msg":"ProductService gRPC server started on :50052","time":"2025-06-01T11:31:47+05:00"}
+{"level":"info","msg":"ListProducts called","time":"2025-06-01T11:32:47+05:00"}

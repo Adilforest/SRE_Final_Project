@@ -1,0 +1,6 @@
+{"level":"info","msg":"AuthService gRPC server started on :50051","time":"2025-05-25T19:23:24+05:00"}
+{"level":"info","msg":"AuthService gRPC server started on :50051","time":"2025-06-01T11:30:02+05:00"}
+{"level":"info","msg":"Login attempt for email: n_nursulu@mail.ru","time":"2025-06-01T11:32:10+05:00"}
+{"level":"info","msg":"Login successful for user: n_nursulu@mail.ru","time":"2025-06-01T11:32:10+05:00"}
+{"level":"info","msg":"Login attempt for email: n_nursulu@mail.ru","time":"2025-06-01T11:45:29+05:00"}
+{"level":"info","msg":"Login successful for user: n_nursulu@mail.ru","time":"2025-06-01T11:45:30+05:00"}
