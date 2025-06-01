@@ -11,26 +11,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Verify Dockerfile exists
-        working-directory: ./api-gateway
         run: |
-          if [ ! -f "Dockerfile" ]; then
+          if [ ! -f "./api-gateway/Dockerfile" ]; then
             echo "Error: Dockerfile not found!"
             exit 1
           fi
           echo "Dockerfile found, proceeding with build..."
-      
+
       - name: Login to Docker Hub
         uses: docker/login-action@v3
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-      
+
       - name: Build and Push Docker Image
-        working-directory: ./api-gateway
         run: |
-          docker build -t ${{ secrets.DOCKER_USERNAME }}/api-gateway:${{ github.sha }} ./ && \
+          docker build -t ${{ secrets.DOCKER_USERNAME }}/api-gateway:${{ github.sha }} ./api-gateway
           docker push ${{ secrets.DOCKER_USERNAME }}/api-gateway:${{ github.sha }}
 
   deploy:
@@ -38,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Install Terraform
         uses: hashicorp/setup-terraform@v3
         with:
