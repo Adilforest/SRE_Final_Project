@@ -133,6 +133,25 @@ func main() {
 	// Добавляем middleware для сбора метрик
 	router.Use(PrometheusMiddleware())
 
+	router.GET("/", func(c *gin.Context) {
+		c.JSON(200, gin.H{
+			"message": "API Gateway is running",
+			"version": "1.0",
+			"routes": []string{
+				"/login",
+				"/register",
+				"/products",
+				"/orders",
+				"/metrics",
+			},
+		})
+	})
+
+	router.GET("/health", func(c *gin.Context) {
+		c.String(200, "OK")
+	})
+
+
 	// Добавляем endpoint для Prometheus
 	router.GET("/metrics", gin.WrapH(promhttp.Handler()))
 
