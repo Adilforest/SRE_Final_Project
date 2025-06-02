@@ -57,3 +57,4 @@
 {"level":"info","msg":"User logged in: 231441@astanait.edu.kz","time":"2025-06-02T01:32:33+05:00"}
 {"level":"info","msg":"Products listed","time":"2025-06-02T01:32:39+05:00"}
 {"level":"info","msg":"Products listed","time":"2025-06-02T01:32:40+05:00"}
+{"level":"info","msg":"API Gateway запущен на :8080","time":"2025-06-02T05:02:47+05:00"}

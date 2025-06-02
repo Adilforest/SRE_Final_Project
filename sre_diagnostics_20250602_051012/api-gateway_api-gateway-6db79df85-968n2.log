@@ -1,0 +1,33 @@
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /                         --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /health                   --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /metrics                  --> main.main.WrapH.func7 (4 handlers)
+[GIN-debug] POST   /login                    --> BikeStoreGolang/api-gateway/internal/handlers.(*AuthHandler).Login-fm (4 handlers)
+[GIN-debug] POST   /register                 --> BikeStoreGolang/api-gateway/internal/handlers.(*AuthHandler).Register-fm (4 handlers)
+[GIN-debug] GET    /activate                 --> BikeStoreGolang/api-gateway/internal/handlers.(*AuthHandler).Activate-fm (4 handlers)
+[GIN-debug] POST   /forgot-password          --> BikeStoreGolang/api-gateway/internal/handlers.(*AuthHandler).ForgotPassword-fm (4 handlers)
+[GIN-debug] POST   /reset-password           --> BikeStoreGolang/api-gateway/internal/handlers.(*AuthHandler).ResetPassword-fm (4 handlers)
+[GIN-debug] POST   /refresh-token            --> BikeStoreGolang/api-gateway/internal/handlers.(*AuthHandler).RefreshToken-fm (4 handlers)
+[GIN-debug] GET    /me                       --> BikeStoreGolang/api-gateway/internal/handlers.(*AuthHandler).GetMe-fm (4 handlers)
+[GIN-debug] POST   /logout                   --> BikeStoreGolang/api-gateway/internal/handlers.(*AuthHandler).Logout-fm (4 handlers)
+[GIN-debug] GET    /products                 --> BikeStoreGolang/api-gateway/internal/handlers.(*ProductHandler).ListProducts-fm (4 handlers)
+[GIN-debug] POST   /products/search          --> BikeStoreGolang/api-gateway/internal/handlers.(*ProductHandler).SearchProducts-fm (4 handlers)
+[GIN-debug] POST   /products                 --> BikeStoreGolang/api-gateway/internal/handlers.(*ProductHandler).CreateProduct-fm (4 handlers)
+[GIN-debug] GET    /products/:id             --> BikeStoreGolang/api-gateway/internal/handlers.(*ProductHandler).GetProduct-fm (4 handlers)
+[GIN-debug] PUT    /products/:id             --> BikeStoreGolang/api-gateway/internal/handlers.(*ProductHandler).UpdateProduct-fm (4 handlers)
+[GIN-debug] DELETE /products/:id             --> BikeStoreGolang/api-gateway/internal/handlers.(*ProductHandler).DeleteProduct-fm (4 handlers)
+[GIN-debug] POST   /products/:id/stock       --> BikeStoreGolang/api-gateway/internal/handlers.(*ProductHandler).ChangeProductStock-fm (4 handlers)
+[GIN-debug] POST   /orders                   --> BikeStoreGolang/api-gateway/internal/handlers.(*OrderHandler).CreateOrder-fm (4 handlers)
+[GIN-debug] GET    /orders/:id               --> BikeStoreGolang/api-gateway/internal/handlers.(*OrderHandler).GetOrder-fm (4 handlers)
+[GIN-debug] GET    /orders/user/:user_id     --> BikeStoreGolang/api-gateway/internal/handlers.(*OrderHandler).ListOrders-fm (4 handlers)
+[GIN-debug] POST   /orders/:id/cancel        --> BikeStoreGolang/api-gateway/internal/handlers.(*OrderHandler).CancelOrder-fm (4 handlers)
+[GIN-debug] POST   /orders/:id/approve       --> BikeStoreGolang/api-gateway/internal/handlers.(*OrderHandler).ApproveOrder-fm (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2025/06/01 - 22:49:05 | 200 |      4.0825ms |      10.244.0.1 | GET      "/health"
