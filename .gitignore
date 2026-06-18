@@ -1,0 +1,28 @@
+# Environment files
+.env
+**/.env
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Terraform state (may contain sensitive data)
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Log files
+*.log
+
+# IDE
+.idea/
+.vscode/
