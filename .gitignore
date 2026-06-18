@@ -26,3 +26,9 @@
 # IDE
 .idea/
 .vscode/
+__pycache__/
+*.class
+*.pyc
+.venv/
+venv/
+node_modules/
